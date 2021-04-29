@@ -1,0 +1,17 @@
+
+e
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(åÒÃè
+l
+java:S2095^"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïŸ¯ù8ãºÅû‘/
+e
+java:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ûÆé¸
+j
+java:S2095,"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒĞ…˜øÿÿÿÿ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½Öşö
+R
+java:S1128"7Remove this unused import 'javax.xml.transform.Result'.(âÓ¸ûÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·¿¯àşÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ‘Ò&
